@@ -1,6 +1,6 @@
 <?php 
 
-namespace yarisrespect\assets;
+namespace letist\assets;
 
 use Yii;
 use yii\web\AssetBundle;
