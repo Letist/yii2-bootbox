@@ -1,5 +1,5 @@
 {
-    "name": "yarisrespect/yii2-bootbox",
+    "name": "letist/yii2-bootbox",
     "description": "Overrides standard browser dialog window for Yii2 Framework.",
     "type": "yii2-extension",
     "homepage": "https://github.com/Yarisrespect/yii2-bootbox.git",
@@ -9,6 +9,10 @@
       {
         "name": "Yaroslav Goisa",
         "email": "yarisrespect@gmail.com"
+      },
+      {
+        "name": "Artem Khlopetskyi",
+        "email": "art.khlopetskyi@gmail.com"
       }
     ],
     "require": {
