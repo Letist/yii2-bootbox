@@ -2,7 +2,7 @@
     "name": "letist/yii2-bootbox",
     "description": "Overrides standard browser dialog window for Yii2 Framework.",
     "type": "yii2-extension",
-    "homepage": "https://github.com/Yarisrespect/yii2-bootbox.git",
+    "homepage": "https://github.com/Letist/yii2-bootbox.git",
     "keywords": ["yii2","extension","bootbox","assets"],
     "license": "BSD-3-Clause",
     "authors": [
